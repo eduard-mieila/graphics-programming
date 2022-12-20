@@ -1,0 +1,24 @@
+Harta
+	> Generare (podea si obstacole) (30p)
+	> Pozitionarea initiala corecta (10p)
+
+
+Personajul
+	> Constructie (10p)
+	> Deplasare (miscare si orientare) (20p)
+	> First/third-person camera (15p)
+	> Proiectile (desenare si miscare) (15p)
+
+
+Inamici
+	> Deplasare (miscare) (20p)
+	X Animare in shader (30p)
+
+
+Coliziuni
+	> jucator - perete (10p)
+	> jucator - inamic (10p)
+	> proiectil - inamic (10p)
+
+
+	X Viata si timp (functionalitate si UI) - 20p(implementat doar in consola, fara HUD)
